@@ -9,4 +9,4 @@ URL : https://thingspeak.com/channels/255363
 URL : http://163.239.78.88:8000/dump
 
 3. 해당 프로그램의 데모영상은 다음에서 확인할 수 있다.
-URL : 
+URL :  https://youtu.be/NtnYYunFSqo 
