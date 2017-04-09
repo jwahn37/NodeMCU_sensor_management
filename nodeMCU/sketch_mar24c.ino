@@ -94,6 +94,6 @@ void loop() {
                "Connection: keep-alive\r\n\r\n");
 
   
-  delay(10000);
+  delay(60000);
 
 }
